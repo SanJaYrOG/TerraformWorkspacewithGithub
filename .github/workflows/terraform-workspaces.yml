@@ -11,7 +11,7 @@ jobs:
     env:
       environment: dev
 
-   steps:
+    steps:
      - name: Checkout
        uses: actions/checkout@v2
   
